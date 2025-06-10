@@ -1,0 +1,45 @@
+1
+Arroz
+Arroz branco tipo 1
+30
+5.99
+Alimentos
+10
+1
+Feijão
+Feijão carioca
+25
+7.49
+Alimentos
+10
+1
+Detergente
+Detergente líquido neutro
+50
+2.99
+Limpeza
+5
+1
+Sabão em pó
+Sabão em pó para roupas
+40
+12.90
+Limpeza
+10
+1
+Refrigerante
+Refrigerante cola 2L
+20
+6.50
+Bebidas
+5
+1
+Suco
+Suco de laranja natural
+15
+4.20
+Bebidas
+5
+1
+Papel Higiênico
+Papel higiênic
